@@ -18,7 +18,7 @@ Para instalar y ejecutar Task-Tracker-CLI, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tuusuario/Task-Tracker-CLI.git
+    git clone https://github.com/XxIvanstromxX/Task-Tracker-CLI.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
